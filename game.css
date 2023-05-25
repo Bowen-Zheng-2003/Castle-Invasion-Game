@@ -1,14 +1,14 @@
 #myCanvas {
   border-style: dashed;
   border-color: grey;
-  background-image: url("castleBack1.png");
+  background-image: url("game/castleBack1.png");
   background-repeat: no-repeat;
   background-size: cover;
   transform: translateY(20px);
 }
 
 body {
-  background-image: url(background.png);
+  background-image: url(game/background.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
